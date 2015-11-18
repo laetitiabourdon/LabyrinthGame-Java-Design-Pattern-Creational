@@ -29,6 +29,7 @@ public class Labyrinth
 		this.forbiddenCellsPositions = forbiddenCellPositions;
 	}
 
+
 	public int getWidth()
 	{
 		return this.width;
